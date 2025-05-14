@@ -1,0 +1,35 @@
+ body { background-color: rgb(123, 255, 193);
+
+}
+ 
+   h1 { color: rgb(96, 99, 96);
+    text-align: center;
+
+ }
+
+
+ p {text-align: justify;
+font-size: x-large
+ }
+
+ul li {  margin: 10px; 
+    
+}
+
+img { border-radius: 15px;
+
+}
+
+table { height: 30px;
+    background-color: rgb(68, 68, 163);
+
+}
+
+table td {
+  padding: 8px;
+  color: white;
+}
+
+a:hover {
+  color: red;
+}
